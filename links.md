@@ -1,0 +1,13 @@
+---
+permalink: LINKS/
+---
+
+- [Git Basic in 4 Mins](https://youtu.be/e9lnsKot_SQ) --- A quick and easy video guide to get into Git and GitHub. It covers the basic commands and workflow.
+
+- [Linux Commands 101](https://github.com/bobbyiliev/101-linux-commands-ebook?tab=readme-ov-file#commands) --- An open-source GitHub eBook with 101 Linux commands that everyone should know, complete with it's command options and brief descriptions.
+
+- [Oh My Posh](https://ohmyposh.dev/) --- A super customizable prompt theme engine for your terminal. You can add extra info like time, git status, used language version, execution time, and much more. Or, just choose from hundreds of available themes.
+
+  Peep my custom theme:
+![Custom Oh My Posh theme 1](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1725351894/u4gmmmml1yt1nubh1cnm.png)
+![Custom Oh My Posh theme 2](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1725352070/p3z71kkjribq2ohfgncf.png)
