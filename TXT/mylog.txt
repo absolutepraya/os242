@@ -16,5 +16,15 @@ ZCZC W00 15 L15 Assignment #05
 ZCZC W00 10 L16 Assignment #06
 ZCZC W00 140 L21 Trying something
 ZCZC W00 20 L23 Bash, Regex, SED, AWK
-ZCZC W00 24 L41 TXT/mylog.txt related.
+ZCZC W00 24 L41 TXT/mylog.txt related
 ZCZC W00 80 L64 Helping a friend (OS related problem)
+ZCZC W01 20 L00 General, etc.
+ZCZC W01 0 L02 CLASSROOM/ZOOM meetings related (absent due to illness) 
+ZCZC W01 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 25 L05 Quiz related including studying
+ZCZC W01 14 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 65 L11 Assignment #01
+ZCZC W01 3 L12 Assignment #02
+ZCZC W01 15 L13 Assignment #03
+ZCZC W01 2 L14 Assignment #04
+ZCZC W01 15 L15 Assignment #05
