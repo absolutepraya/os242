@@ -42,7 +42,7 @@ ZCZC W02 20 L14 Assignment #04
 ZCZC W02 5 L15 Assignment #05
 ZCZC W02 12 L16 Assignment #06
 ZCZC W02 24 L17 Assignment #07
-ZCZC W02 24 L21 Trying something
+ZCZC W02 80 L21 Trying something
 ZCZC W02 15 L24 Scripting in general
 ZCZC W02 30 L25 C-language including Make
 ZCZC W02 14 L26 GnuPG, key-gen, encrypt/decrypt
