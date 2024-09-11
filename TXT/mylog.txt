@@ -30,15 +30,15 @@ ZCZC W01 2 L14 Assignment #04
 ZCZC W01 15 L15 Assignment #05
 ZCZC W02 20 L00 General, etc.
 ZCZC W02 85 L01 SCELE/Discord related (Pop Quiz)
-ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related (absent due to il>ZCZC W01 5 L03 GitHub and git related, including commit, push, p>ZCZC W01 25 L05 Quiz related including studying
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 12 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 45 L05 Quiz related including studying
 ZCZC W02 35 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 10 L07 Demo related
 ZCZC W02 114 L11 Assignment #01
 ZCZC W02 14 L12 Assignment #02
-ZCZC W02 ... L13 Assignment #03
-ZCZC W02 ... L14 Assignment #04
+ZCZC W02 15 L13 Assignment #03
+ZCZC W02 20 L14 Assignment #04
 ZCZC W02 5 L15 Assignment #05
 ZCZC W02 12 L16 Assignment #06
 ZCZC W02 24 L17 Assignment #07
