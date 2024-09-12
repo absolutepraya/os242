@@ -11,10 +11,10 @@ permalink: LINKS/
 - [***Oh My Posh***](https://ohmyposh.dev/) --- A super customizable prompt theme engine for your terminal. You make your own theme with extra info like time, git status, used language version, device battery, execution time, and much more. Or, just choose from hundreds of available themes.
 
   Peep my custom theme for my [Debian](https://raw.githubusercontent.com/absolutepraya/config/config/ohmyposh_debian.omp.json):
-![Custom Oh My Posh theme 1](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726057558/hhekwcvv8usmig6suubg.png)  
+![Custom Oh My Posh theme 1](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/aol1hkmqa3hw53swpw9k.png)  
 
   And for my [Ubuntu](https://raw.githubusercontent.com/absolutepraya/config/config/ohmyposh_ubuntu.omp.json):
-![Custom Oh My Posh theme 2](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726057759/oyorexlbporsxzmeutby.png)
+![Custom Oh My Posh theme 2](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/vrqsppylwszqbdp6sy4o.png)
 
   Both shows the following:
   - Current OS or Linux distro icon
