@@ -46,5 +46,5 @@ ZCZC W02 80 L21 Trying something
 ZCZC W02 15 L24 Scripting in general
 ZCZC W02 30 L25 C-language including Make
 ZCZC W02 14 L26 GnuPG, key-gen, encrypt/decrypt
-ZCZC W02 70 L40 TXT/ related in general.
+ZCZC W02 70 L40 TXT/ related in general
 ZCZC W02 8 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
