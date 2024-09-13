@@ -21,9 +21,9 @@ permalink: LINKS/
 
     Peep my custom theme for my [Debian](https://raw.githubusercontent.com/absolutepraya/config/config/ohmyposh_debian.omp.json) and [Ubuntu](https://raw.githubusercontent.com/absolutepraya/config/config/ohmyposh_ubuntu.omp.json):
 
-    | Debian                                                                                                               | Ubuntu                                                                                                               |
-    | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-    | ![Custom Oh My Posh theme 1](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/aol1hkmqa3hw53swpw9k.png) | ![Custom Oh My Posh theme 2](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/vrqsppylwszqbdp6sy4o.png) |
+    | Debian                                                                                                       | Ubuntu                                                                                                                                                                                                                             |
+    | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | ![Debian Oh My Posh](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/aol1hkmqa3hw53swpw9k.png) | ![Ubuntu Oh My Posh1 ](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/vrqsppylwszqbdp6sy4o.png) <br> ![Ubuntu Oh My Posh 2](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726234044/uzropoko68175fdud2af.png) |
 
     Both shows the following:
 
