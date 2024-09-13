@@ -28,3 +28,5 @@ permalink: LINKS/
   - Version of the used language (e.g. Node.js, Python, Ruby, etc.)
 
 - [***Linux Directories Explained in 100 Seconds***](https://www.youtube.com/watch?v=42iQKuQodW4&pp=ygUSZGViaWFuIGZpbGUgc3lzdGVt) --- A quick video guide to understand the Linux directory structure in 100 seconds, so you know where's what and know how to navigate.
+
+- [***Micro CLI Text Editor***](https://micro-editor.github.io/) --- Micro is a highly customizable, easy-to-use terminal text editor that works like a regular text editor with familiar keybindings (copy, paste, undo, redo, etc.), featuring multiple cursors, syntax highlighting, Lua-powered plugins, mouse support, and a built-in terminal emulator.
