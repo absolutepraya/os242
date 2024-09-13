@@ -10,20 +10,20 @@ permalink: LINKS/
 
 -   [**_VirtualBox Shared Folder_**](https://askubuntu.com/questions/161759/how-to-access-a-shared-folder-in-virtualbox) --- This is an alternative for `SCP` transfer files, where you can have a folder shared between your host OS (in my case Windows 11) and Debian in VirtualBox.
 
-    This is the example, where I sync my Windows' `Downloads` folder with Debian's `~/windownloads` folder:  
-    
-    | OS | Folder |
-    | --- | --- |
+    This is the example, where I sync my Windows' `Downloads` folder with Debian's `~/windownloads` folder:
+
+    | OS         | Folder                                                                                                |
+    | ---------- | ----------------------------------------------------------------------------------------------------- |
     | Windows 11 | ![Windows 11](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726232347/hije4krdjyuigkz0tsog.png) |
-    | Debian | ![Debian](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726232348/wsgzjhdhjfvlr29stoka.png) |
+    | Debian     | ![Debian](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726232348/wsgzjhdhjfvlr29stoka.png)     |
 
 -   [**_Oh My Posh_**](https://ohmyposh.dev/) --- A super customizable prompt theme engine for your terminal. You make your own theme with extra info like time, git status, used language version, device battery, execution time, and much more. Or, just choose from hundreds of available themes.
 
-    Peep my custom theme for my [Debian](https://raw.githubusercontent.com/absolutepraya/config/config/ohmyposh_debian.omp.json):
-    ![Custom Oh My Posh theme 1](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/aol1hkmqa3hw53swpw9k.png)
+    Peep my custom theme for my [Debian](https://raw.githubusercontent.com/absolutepraya/config/config/ohmyposh_debian.omp.json) and [Ubuntu](https://raw.githubusercontent.com/absolutepraya/config/config/ohmyposh_ubuntu.omp.json):
 
-    And for my [Ubuntu](https://raw.githubusercontent.com/absolutepraya/config/config/ohmyposh_ubuntu.omp.json):
-    ![Custom Oh My Posh theme 2](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/vrqsppylwszqbdp6sy4o.png)
+    | Debian                                                                                                               | Ubuntu                                                                                                               |
+    | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+    | ![Custom Oh My Posh theme 1](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/aol1hkmqa3hw53swpw9k.png) | ![Custom Oh My Posh theme 2](https://res.cloudinary.com/dr1tp0gwd/image/upload/v1726106669/vrqsppylwszqbdp6sy4o.png) |
 
     Both shows the following:
 
