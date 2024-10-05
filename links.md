@@ -40,3 +40,5 @@ permalink: LINKS/
 -   [**_Linux Directories Explained in 100 Seconds_**](https://www.youtube.com/watch?v=42iQKuQodW4&pp=ygUSZGViaWFuIGZpbGUgc3lzdGVt) --- A quick video guide to understand the Linux directory structure in 100 seconds, so you know where's what and know how to navigate.
 
 -   [**_Micro CLI Text Editor_**](https://micro-editor.github.io/) --- Micro is a highly customizable, easy-to-use terminal text editor that works like a regular text editor with familiar keybindings (copy, paste, undo, redo, etc.), featuring multiple cursors, syntax highlighting, Lua-powered plugins, mouse support, and a built-in terminal emulator.
+
+-   [**_Automatically Login to Debian (via PowerShell SSH_**](https://stackoverflow.com/questions/71340670/how-to-automatically-login-via-windows-10-open-ssh-client-pre-stored-password) --- Automatically login to Debian without having to insert your password every time.

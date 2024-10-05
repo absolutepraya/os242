@@ -87,3 +87,23 @@ ZCZC W04 95 L40 TXT/ related in general
 ZCZC W04 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W04 40 L64 Helping a friend (OS related problem)
 ZCZC W04 180 L88 Workout/Sport/Exercise/ETC.
+ZCZC W05 27 L00 General, etc.
+ZCZC W05 110 L01 SCELE/Discord related (Pop Quiz)
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 55 L05 Quiz related including studying
+ZCZC W05 38 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 35 L07 Demo related
+ZCZC W05 12 L11 Assignment #01
+ZCZC W05 30 L12 Assignment #02
+ZCZC W05 105 L13 Assignment #03
+ZCZC W05 8 L14 Assignment #04
+ZCZC W05 45 L15 Assignment #05
+ZCZC W05 24 L21 Trying something
+ZCZC W05 12 L24 Scripting in general
+ZCZC W05 35 L25 C-language including Make
+ZCZC W05 4 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W05 87 L40 TXT/ related in general
+ZCZC W05 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05 30 L64 Helping a friend (OS related problem)
+ZCZC W05 180 L88 Workout/Sport/Exercise/ETC.
