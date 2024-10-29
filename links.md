@@ -42,3 +42,5 @@ permalink: LINKS/
 -   [**_Micro CLI Text Editor_**](https://micro-editor.github.io/) --- Micro is a highly customizable, easy-to-use terminal text editor that works like a regular text editor with familiar keybindings (copy, paste, undo, redo, etc.), featuring multiple cursors, syntax highlighting, Lua-powered plugins, mouse support, and a built-in terminal emulator.
 
 -   [**_Automatically Login to Debian (via PowerShell SSH_**](https://stackoverflow.com/questions/71340670/how-to-automatically-login-via-windows-10-open-ssh-client-pre-stored-password) --- Automatically login to Debian without having to insert your password every time.
+
+-   [**_`malloc` vs `mmap`_**](https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c) --- Discussion on the difference between malloc and mmap in C.
