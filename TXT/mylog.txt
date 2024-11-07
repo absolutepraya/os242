@@ -143,3 +143,20 @@ ZCZC W07 10 L26 GnuPG, key-gen, encrypt/decrypt
 ZCZC W07 94 L40 TXT/ related in general
 ZCZC W07 100 L64 Helping a friend (OS related problem)
 ZCZC W07 240 L88 Workout/Sport/Exercise/ETC.
+ZCZC W08 30 L00 General, etc.
+ZCZC W08 66 L01 SCELE/Discord related (Pop Quiz)
+ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 8 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 65 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 10 L07 Demo related
+ZCZC W08 10 L11 Assignment #01
+ZCZC W08 30 L12 Assignment #02
+ZCZC W08 265 L13 Assignment #03
+ZCZC W08 94 L14 Assignment #04
+ZCZC W08 15 L21 Trying something
+ZCZC W08 30 L24 Scripting in general
+ZCZC W08 72 L25 C-language including Make
+ZCZC W08 10 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W08 90 L40 TXT/ related in general
+ZCZC W08 110 L64 Helping a friend (OS related problem)
+ZCZC W08 300 L88 Workout/Sport/Exercise/ETC.

@@ -44,3 +44,5 @@ permalink: LINKS/
 -   [**_Automatically Login to Debian (via PowerShell SSH_**](https://stackoverflow.com/questions/71340670/how-to-automatically-login-via-windows-10-open-ssh-client-pre-stored-password) --- Automatically login to Debian without having to insert your password every time.
 
 -   [**_`malloc` vs `mmap`_**](https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c) --- Discussion on the difference between malloc and mmap in C.
+
+-   [_**What is LFS for anyway?**_](https://www.quora.com/Why-should-anyone-build-Linux-from-scratch) --- This discussion on Quora may help satisfy your curiosity about why anyone would build Linux From Scratch.
